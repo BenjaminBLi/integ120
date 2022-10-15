@@ -1,0 +1,1 @@
+Second phase of [[Bloom's Taxonomy for Learning Outcomes]]. You're able to explain what a concept is, and connect it to other concepts that have already been understood

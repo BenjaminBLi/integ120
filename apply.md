@@ -1,0 +1,1 @@
+Third level of [[Bloom's Taxonomy for Learning Outcomes]]. This is being able to take concepts and apply them to new situations. Think of taking algebra or formulas and being able to interpret and solve word questions using them.

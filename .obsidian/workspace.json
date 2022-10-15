@@ -8,14 +8,39 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fd61b09b06b7f606",
+            "id": "dd6227672f727c7f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "create.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "311d7fe9ded6576c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "apply.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d1f414fdaa13758b",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -65,7 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 209.5
   },
   "right": {
     "id": "860af4f18373bc03",
@@ -131,9 +156,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "fd61b09b06b7f606",
+  "active": "d1f414fdaa13758b",
   "lastOpenFiles": [
-    "acquiring knowledge.md",
-    "activating knowledge.md"
+    "README.md",
+    "apply.md",
+    "analyze.md",
+    "List of concepts to cover.md",
+    "create.md",
+    "Bloom's Taxonomy for Learning Outcomes.md",
+    "evaluate.md",
+    "understand.md",
+    "remember.md",
+    "Type 3 cognition.md"
   ]
 }

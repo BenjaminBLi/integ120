@@ -1,0 +1,1 @@
+Penulitimate level of [[Bloom's Taxonomy for Learning Outcomes]]. This is being able to make sense of new information and come to your own informed opinion of this information. Something akin to being able to grade math worksheets

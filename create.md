@@ -1,0 +1,1 @@
+final level of understanding in [[Bloom's Taxonomy for Learning Outcomes]]. This is being able to create new content based on the knowledge you have. For example, performing research to develop a new audio encoding.
