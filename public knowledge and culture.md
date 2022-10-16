@@ -1,0 +1,1 @@
+This is the collective knowledge of all humans - that is, everything an individual could possibly learn ever.

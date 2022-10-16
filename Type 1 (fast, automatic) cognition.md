@@ -1,0 +1,1 @@
+The faster, automatic type of cognition that can be connected to instinct and reactions. Thought of as a separate type of cognition than [[Type 2 (slow, deliberate) cognition]]. 

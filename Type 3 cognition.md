@@ -1,1 +1,0 @@
-Context switching for [[Type 2 Cognition]] and [[Type 1 cognition]]

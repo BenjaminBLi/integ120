@@ -1,1 +1,0 @@
-Counterpart to [[Type 1 cognition]]. The conscious and verbal type of cognition. This involves things like language and higher level thinking

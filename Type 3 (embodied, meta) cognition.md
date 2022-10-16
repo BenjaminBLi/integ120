@@ -1,0 +1,1 @@
+This type of cognition provides context switching for [[Type 2 (slow, deliberate) cognition]] and [[Type 1 (fast, automatic) cognition]]. This allows the individual to consciously apply the two types of cognition

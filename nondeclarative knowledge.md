@@ -1,0 +1,1 @@
+Knowledge that's instinctual or had to explain. Something like how to sightread music can be considered nondeclarative

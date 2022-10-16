@@ -1,1 +1,0 @@
-The faster, automatic type of cognition that can be connected to instinct and reactions.

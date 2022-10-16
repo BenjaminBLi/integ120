@@ -1,17 +1,12 @@
-INTEG 120: The Art and Science of Learning  
-is is a list of 100 concepts (!!!) that were introduced in the first 5 weeks of INTEG 120.  
-Is that more or less than you expected?  
-We have talked about things that are not on this list, but the first test will only focus on  
-concepts from this list. ese are the concepts you want to ensure you understand. :)  
 • acquiring knowledge  
 • activating knowledge  
 • affect  
-• analyze  
-• apply  
+• [[analyze]]
+• [[apply]]
 • arousal  
 • assessing energy levels  
 • backward search  
-• Bloom's taxonomy of learning outcomes  
+• [[Bloom's Taxonomy for Learning Outcomes]]
 • body budgeting  
 • Bullet Journaling  
 • cognitive heuristics  
@@ -20,27 +15,26 @@ concepts from this list. ese are the concepts you want to ensure you understa
 • computational procedures  
 • confidence is not evidence that you are right  
 • connecting and combining smart notes  
-• create  
+• [[create]]
 • CRUM  
-• declarative knowledge  
+• [[declarative knowledge]]
 • declarative learning pathways  
 • declarative memory  
 • develop  
 • differentiate concepts  
 • discovering and addressing weaknesses and gaps in knowledge  
-• elaboration
-
-• emotion concepts  
+• elaboration 
+• emotion concepts 
 • emotional literacy and granularity  
 • emotional vocabulary  
-• enculturation  
+• enculturation 
 • enskilment  
-• evaluate  
+• [[evaluate]]
 • experiential learning  
 • experiential structure  
-• fleeting notes  
+• fleeting notes
 • forward search  
-• habituation  
+• habituation
 • illusions of knowledge  
 • inductive generalization  
 • interoception  
@@ -65,15 +59,15 @@ concepts from this list. ese are the concepts you want to ensure you understa
 • phenomenon  
 • planning prompts  
 • prediction error
-
 • primary learning environments  
 • prioritization matrix  
 • priors  
-• public knowledge and culture  
+• [[public knowledge and culture]]
 • recall  
 • recognition  
+- [[relate and connect concepts]]
 • relate and connect concepts  
-• remember  
+• [[remember]]
 • representational structures  
 • retrieval  
 • rule-based learning  
@@ -89,6 +83,7 @@ concepts from this list. ese are the concepts you want to ensure you understa
 • storing knowledge  
 • the cognitive domain  
 • the Feynman technique  
+- [[the Feynman technique]]
 • the knowledge triangle  
 • the most effective learning strategies can be counter-intuitive  
 • the predictions our brain makes are shaped by our bodies and the environment around  
@@ -96,12 +91,11 @@ us
 • the predictive brain  
 • tracking  
 • tristesse  
-• Type 1 (fast, automatic) cognition  
-• Type 2 (slow, deliberate) cognition  
-• Type 3 (embodied, meta) cognition  
-• understand  
+• [[Type 1 (fast, automatic) cognition]]
+• [[Type 2 (slow, deliberate) cognition]]
+• [[Type 3 (embodied, meta) cognition]]
+• [[understand]]
 • valence
-
 • we do not detect emotion in other people, we infer emotion in other people  
 • we regulate one another's affect  
 • word choice sensitivity  

@@ -1,0 +1,1 @@
+this process of learning can be considered to be at the level of [[understand]] in [[Bloom's taxonomy of learning outcomes]]. This means the individual has reached a basic level of understanding of a topic.
