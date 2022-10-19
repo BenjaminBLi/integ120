@@ -1,10 +1,10 @@
 • acquiring knowledge  
-• activating knowledge  
-• affect  
+• activating knowledge
+• affect
 • [[analyze]]
 • [[apply]]
-• arousal  
-• assessing energy levels  
+• arousal
+• assessing energy levels 
 • backward search  
 • [[Bloom's Taxonomy for Learning Outcomes]]
 • body budgeting  
@@ -14,12 +14,12 @@
 • collecting, creating, and curating smart notes  
 • computational procedures  
 • confidence is not evidence that you are right  
-• connecting and combining smart notes  
+• connecting and combining smart notes
 • [[create]]
 • CRUM  
 • [[declarative knowledge]]
 • declarative learning pathways  
-• declarative memory  
+• declarative memory
 • develop  
 • differentiate concepts  
 • discovering and addressing weaknesses and gaps in knowledge  
@@ -44,7 +44,7 @@
 • learning strategies  
 • learning, like all growth, is uncomfortable  
 • long term memory  
-• metacognition  
+• [[metacognition]]  
 • mindfulness prompts  
 • mood  
 • morning pages  
@@ -82,13 +82,13 @@
 • specialization  
 • storing knowledge  
 • the cognitive domain  
-• the Feynman technique  
+• the Feynman technique
 - [[the Feynman technique]]
-• the knowledge triangle  
+- [[the knowledge triangle]]
 • the most effective learning strategies can be counter-intuitive  
 • the predictions our brain makes are shaped by our bodies and the environment around  
 us  
-• the predictive brain  
+• the predictive brain
 • tracking  
 • tristesse  
 • [[Type 1 (fast, automatic) cognition]]

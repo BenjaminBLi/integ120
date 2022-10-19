@@ -1,1 +1,1 @@
-Knowledge that's instinctual or had to explain. Something like how to sightread music can be considered nondeclarative
+This is personal knowledge that's instinctual or had to explain. Something like how to sightread music can be considered nondeclarative

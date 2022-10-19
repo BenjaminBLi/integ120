@@ -1,0 +1,1 @@
+This is thinking about thinking, or "meta" thinking. This is the process of being aware of your own thought processes and cognition in general. In the context of this course, we use metacognition to learn and apply effective learning strategies, such as [[Bloom's Taxonomy for Learning Outcomes]].
