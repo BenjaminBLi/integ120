@@ -1,1 +1,1 @@
-This level of learning is when we can recite definitions and [[recall]] them
+This level of learning is when we can recite definitions.

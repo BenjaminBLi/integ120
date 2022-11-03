@@ -1,0 +1,1 @@
+This is the [[Type 3 (embodied, meta) cognition]] process of understanding our own [[perception and cultural prisims]], and actively trying to change them to create a new set of [[rules]] and enrich our own [[personal knowledge]]. By doing so, we can move our own predictions closer to [[phenomenon]] and try to stray away from [[illusions of knowledge]]. 

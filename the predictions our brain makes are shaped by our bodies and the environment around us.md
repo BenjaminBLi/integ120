@@ -1,0 +1,1 @@
+Our [[cognitive heuristics]] are not only impacted by our own [[Type 1 (fast, automatic) cognition]], [[nondeclarative knowledge]], and habits, but are also impacted by [[interoception]]. It is important to be aware of this in a daily life, as they can easily lead to [[prediction error]]s.

@@ -1,0 +1,1 @@
+This is practice for the sake of practice. This is something like doing reps for bodybuilding to hit a number, rather than using them as a milestone to track growth. Often we are influenced to have [[fixed mindsets]] that lead to [[naive practice]] when we listen to others who follow similar benchmarks.

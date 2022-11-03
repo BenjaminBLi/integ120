@@ -1,0 +1,2 @@
+This is practice with specific, well-defined goals. It is the act of using [[Type 2 (slow, deliberate) cognition]] and a [[growth mindsets]] to be aware of our own shortcomings to grow as a person. Repetition is done as a form of [[elaboration]], where the reptition is used to consolidate [[personal knowledge]]. It mostly focuses on our weaknesses rather than our strengths, but does not need [[metacognition]]. This is different from [[deliberate practice]]. 
+

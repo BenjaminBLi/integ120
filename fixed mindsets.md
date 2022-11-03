@@ -1,0 +1,3 @@
+This is the mindset that we have a set "potential" and that eventually you'll reach the full extents of your potential. This is restricting to our own growth and is an example of how [[learning, like all growth, is uncomfortable]], as the idea of having a set ceiling is reassuring.
+
+The concept of someone having a pre-given potential can be considered one of many [[illusions of knowledge]] that relying on [[public knowledge and culture]] and/or our own [[perception and cultural prisims]] can be so detrimental to our [[learning as long-term development]].

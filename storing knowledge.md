@@ -1,1 +1,1 @@
-This is a root page that directs us to methods used to store our [[personal knowledge]].
+This describes one part of the process in which we store our [[personal knowledge]]. We use strategies like [[Bullet Journaling]], [[CRUM]], and [[collecting, creating, and curating smart notes]] to store our knowledge and learn it more efficiently.

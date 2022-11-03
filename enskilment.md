@@ -1,1 +1,1 @@
-A concept that comes from sports sciences. This is where we learn through doing and the environment, or becoming "more skilled". This is another type of [[social learning]]. 
+A concept that comes from sports sciences. This is where we learn through doing and the environment, or becoming "more skilled". This is another type of [[social learning]], and is a way of enriching our [[personal knowledge]].

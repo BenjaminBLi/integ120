@@ -1,0 +1,3 @@
+[[deliberate practice]] is essentially [[purposeful practice]] with the extension of [[metacognition]] and [[growth mindsets]]. Not only does it focus on weaknesses, but also emphasizes being aware of our own [[representational structures]] and improving upon them.
+
+It is often more frustrating than fun, as we focus on improving skills we suck at. It obviously has a higher [[cognitive load]] and challenges us out of our comfort zones. The self-improvement aspect is reminiscent of [[connecting and combining smart notes]], as both actions involve improving our skills through [[metacognition]] and [[discovering and addressing weaknesses and gaps in knowledge]].

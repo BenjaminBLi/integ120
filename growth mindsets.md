@@ -1,0 +1,1 @@
+This is the idea that we always have room to grow and improve. As a form of [[metacognition]], we are priming ourselves to be able to exceed our own limits.

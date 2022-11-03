@@ -6,7 +6,6 @@
       {
         "id": "ad264d58341486db",
         "type": "tabs",
-        "dimension": 71.36829415310427,
         "children": [
           {
             "id": "fc89af09cdf864f5",
@@ -21,58 +20,31 @@
             }
           },
           {
-            "id": "7b13fbb9c4de9dd1",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "cdce35f98faa91fb",
+            "id": "5d95039eb005145e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "storing knowledge.md",
+                "file": "learning, like all growth, is uncomfortable.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "85582bc009a78874",
+            "id": "c47f7230023ba4b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "search problems.md",
+                "file": "Practicing.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
-      },
-      {
-        "id": "80a42ee73bdd1f73",
-        "type": "tabs",
-        "dimension": 28.63170584689572,
-        "children": [
-          {
-            "id": "5b1ea6cfa0d3764b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "List of concepts to cover.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -138,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Practicing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Practicing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Practicing.md"
+              }
             }
           }
         ]
@@ -185,17 +161,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c3f9982a25d26c39",
+  "active": "c47f7230023ba4b1",
   "lastOpenFiles": [
-    "CRUM.md",
-    "storing knowledge.md",
-    "representational structures.md",
-    "search problems.md",
+    "purposeful practice.md",
+    "deliberate practice.md",
     "learning as long-term development.md",
-    "List of concepts to cover.md",
-    "backward search.md",
-    "forward search.md",
-    "Bloom's Taxonomy for Learning Outcomes.md",
-    "computational procedures.md"
+    "Practicing.md",
+    "naive practice.md",
+    "learning, like all growth, is uncomfortable.md",
+    "Learning mindsets.md",
+    "fixed mindsets.md",
+    "growth mindsets.md",
+    "remember.md"
   ]
 }

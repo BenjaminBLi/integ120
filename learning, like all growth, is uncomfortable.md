@@ -1,1 +1,3 @@
 Physically, [[neurons that fire together wire together]]. That is to say, when we learn and our neurons fire in new ways, they begin to wire together. This is one of many reasons why learning is uncomfortable. We are physically unprepared for these new experiences.
+
+Similarly, our [[Learning mindsets]] are an important part of learning, and using [[metacognition]] to attempt to actively eliminate [[fixed mindsets]] and replacing them with [[growth mindsets]] is a great way to encourage growth for the sake of growth.

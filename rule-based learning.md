@@ -1,0 +1,1 @@
+This is the process of learning by performing [[forward search]] and [[backward search]] iin the process of [[acquiring knowledge]], adjusting our [[computational procedures]] and [[representational structures]], and then applying these modified [[rules]] in the future. 

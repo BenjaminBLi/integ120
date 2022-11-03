@@ -1,0 +1,3 @@
+Training is often touted as being a "10,000" hour master for being a master of something, but this is simply not true. Practice is can be categorized as [[naive practice]],  [[purposeful practice]], and [[deliberate practice]]
+
+Our brains always prefer [[naive practice]] because [[learning, like all growth, is uncomfortable]], and we would much rather take it easy. It is important to take ownership of ourselves and attempt to maximize our [[deliberate practice]] to ensure succes with our [[learning as long-term development]]. 

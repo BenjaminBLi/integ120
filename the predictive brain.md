@@ -1,1 +1,3 @@
 The brain is a lazy machine that tries its best to use [[cognitive heuristics]] and [[Type 1 (fast, automatic) cognition]] when possible. This is because it is generally fast and efficient, but can lead us to dead ends and wrong paths. This is why it's important to understand that [[confidence is not evidence that you are right]].
+
+One way to adjust our own [[prediction error]]s is understanding that [[you can change your predictions by changing your context]]. This closely ties with the fact that [[the predictions our brain makes are shaped by our bodies and the environment around us]].
