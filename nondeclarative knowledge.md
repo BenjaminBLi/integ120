@@ -1,1 +1,1 @@
-This is personal knowledge that's instinctual or had to explain. Something like how to sightread music can be considered nondeclarative
+This is personal knowledge that's instinctual or had to explain. Something like how to sightread music can be considered nondeclarative. Similarly, our own [[perception and cultural prisims]] that tint our view of the world are considered nondeclarative knowledge as they are internalized and are hard to describe. [[cognitive heuristics]] are typically also nondeclarative.

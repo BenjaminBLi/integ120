@@ -1,0 +1,1 @@
+This is when we [[analyze]] on our own [[personal knowledge]] to develop new [[rules]]. 

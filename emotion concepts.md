@@ -1,0 +1,1 @@
+This is how the study of emotion tries to define emotions. That is to say, it ties [[affect]] together with our [[emotional vocabulary]] and [[emotional literacy and granularity]]. It helps categorize and elaborate on the different emotions an individual experiences, and are often developed through social interactions and the languages an individual speaks.

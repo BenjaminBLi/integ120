@@ -1,0 +1,1 @@
+This stands for **Computational Representational Understanding of Mind**. This model hypothesizes that our mind is built of [[representational structures]] and [[computational procedures]].

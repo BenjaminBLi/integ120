@@ -1,0 +1,1 @@
+This is our own mental representations of the world. This is similar to data structures and how we [[storing knowledge]]. 

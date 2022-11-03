@@ -1,0 +1,1 @@
+This is the process of how people learn the surrounding culture and the "expected norms" by just... existing in it. The influences can be indirect and direct, and [[the predictive brain]] will naturally amend [[prediction error]]s that arise from the new environment.

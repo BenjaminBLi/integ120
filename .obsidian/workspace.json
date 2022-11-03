@@ -6,27 +6,47 @@
       {
         "id": "ad264d58341486db",
         "type": "tabs",
-        "dimension": 71.36829415310429,
+        "dimension": 71.36829415310427,
         "children": [
           {
-            "id": "d1f414fdaa13758b",
+            "id": "fc89af09cdf864f5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "declarative knowledge.md",
+                "file": "learning as long-term development.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a0c1347b3592a081",
+            "id": "7b13fbb9c4de9dd1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "cdce35f98faa91fb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "metacognition.md",
+                "file": "storing knowledge.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "85582bc009a78874",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "search problems.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +58,7 @@
       {
         "id": "80a42ee73bdd1f73",
         "type": "tabs",
-        "dimension": 28.631705846895724,
+        "dimension": 28.63170584689572,
         "children": [
           {
             "id": "5b1ea6cfa0d3764b",
@@ -118,7 +138,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "metacognition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +154,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "metacognition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,9 +175,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "metacognition.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -169,20 +185,17 @@
     "width": 300,
     "collapsed": true
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "a0c1347b3592a081",
+  "active": "c3f9982a25d26c39",
   "lastOpenFiles": [
+    "CRUM.md",
+    "storing knowledge.md",
+    "representational structures.md",
+    "search problems.md",
+    "learning as long-term development.md",
     "List of concepts to cover.md",
-    "metacognition.md",
-    "declarative knowledge.md",
-    "apply.md",
-    "nondeclarative knowledge.md",
-    "the Feynman technique.md",
-    "relate and connect concepts.md",
-    "2022-10-15.md",
-    "the knowledge triangle.md",
-    "public knowledge and culture.md"
+    "backward search.md",
+    "forward search.md",
+    "Bloom's Taxonomy for Learning Outcomes.md",
+    "computational procedures.md"
   ]
 }

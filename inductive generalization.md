@@ -1,0 +1,1 @@
+This is when we perform [[specialization]] on our [[cognitive heuristics]] that allows an individual to [[analyze]] and [[apply]] their own [[personal knowledge]] to a more general set of circumstances. That is to say, we take the knowledge we know, and try to generalize it to a larger sample size we have no experience with to make connects and predictions. 

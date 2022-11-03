@@ -1,0 +1,1 @@
+A compuational procedure is an "algorithm" that consists of a set of [[rules]]. 

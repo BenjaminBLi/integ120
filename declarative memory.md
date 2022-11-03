@@ -1,0 +1,1 @@
+This memory involves things that are explicitly stored. That is to say, we need to make active efforts to retrieve this information. It is a form of [[long term memory]]. 

@@ -1,0 +1,1 @@
+This is a concept in statistics and psychology that describes what uncertanties that your data comes with. That is to say, all information comes with contexts, and these contexts are never perfect. These flaws can lead to issues with our own [[cognitive heuristics]].

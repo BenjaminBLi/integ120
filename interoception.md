@@ -1,0 +1,3 @@
+the human brain is unfortunately, [[the predictive brain]]. It has evolved to predict what's going to happen next rather than respond to stimuli. Sometimes it will have [[prediction error]]s. One major and lesser known sense that messes with our predictions is [[interoception]]. This is the sense of our own body and organs. There are many receptors that tell us the overall state of the body, which our brain processes unconsciously.
+
+Our brain then uses this information to generate responses, which can often affect our [[mood]]. Being aware of our own physical state is its own type of [[metacognition]] and can help with our [[emotional literacy and granularity]].

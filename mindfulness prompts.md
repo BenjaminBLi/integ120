@@ -1,0 +1,3 @@
+This method of [[journaling]] focuses on how we feel - emotionally, physically, and cognitively. Some things that we should focus on during mindfulness prompts are things like [[emotional literacy and granularity]], [[emotion concepts]], and [[emotional vocabulary]].
+
+If we feel like we can't properly express our emotions or are experiencing something new for example, we should try to ensure that our own vocabulary and skills are enough to express them, and use these prompts to try and grow as a person.

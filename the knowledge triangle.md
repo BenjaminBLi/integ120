@@ -1,5 +1,3 @@
-The knowledge triangle is the general knowledge classification type of three categories:
+The knowledge triangle is a model of information that differentiates between information types that can be categorized into two groups, [[personal knowledge]] and [[public knowledge and culture]]. 
 
-[[public knowledge and culture]]
-[[declarative knowledge]]
-[[nondeclarative knowledge]]
+The triangle describes how the three types of knowledge ([[declarative knowledge]], [[nondeclarative knowledge]], [[public knowledge and culture]]) connect with each other - that is, the types of knowledge can transform into one another.

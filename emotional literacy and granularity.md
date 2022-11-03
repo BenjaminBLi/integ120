@@ -1,0 +1,1 @@
+this is closely tied to [[emotional vocabulary]], and is how we pinpoint exactly how we feel. It is more specific than [[emotion concepts]] and allows us to clearly identify how we feel. It can remove common issues such as misattributing things like the discomfort from trying new things to dislike.

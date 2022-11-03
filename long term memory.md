@@ -1,0 +1,1 @@
+This is the memory in charge of storing information for the... long term. It's split into two portions, [[declarative memory]] and [[nondeclarative memory]].

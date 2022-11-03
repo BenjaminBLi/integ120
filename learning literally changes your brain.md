@@ -1,0 +1,1 @@
+When we learn, our neurons fire in new ways, trying to create new pathways that will allow us to store more information. This is often known as [[neurons that fire together wire together]]. 

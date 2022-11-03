@@ -1,0 +1,1 @@
+Physically, [[neurons that fire together wire together]]. That is to say, when we learn and our neurons fire in new ways, they begin to wire together. This is one of many reasons why learning is uncomfortable. We are physically unprepared for these new experiences.

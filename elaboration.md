@@ -1,0 +1,1 @@
+Elaborating on our knowledge through the process of [[relate and connect concepts]] is a type of learning method that helps build connections and deepen our [[personal knowledge]]. This process can also help us with [[discovering and addressing weaknesses and gaps in knowledge]], and is essential in helping us [[differentiate concepts]].

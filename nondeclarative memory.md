@@ -1,0 +1,1 @@
+This memory encompasses procedural tasks like riding bikes, or making pasta dough, as well as tasks and information developed through conditioning. This means that [[declarative memory]] can be convered into [[nondeclarative memory]] through procedures such as priming.

@@ -1,0 +1,1 @@
+The brain is a lazy machine that tries its best to use [[cognitive heuristics]] and [[Type 1 (fast, automatic) cognition]] when possible. This is because it is generally fast and efficient, but can lead us to dead ends and wrong paths. This is why it's important to understand that [[confidence is not evidence that you are right]].

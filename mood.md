@@ -1,0 +1,1 @@
+This is an [[affect]]ive state. This is less specific than a feeling, and is generally less intense and tied to external stimulus. 

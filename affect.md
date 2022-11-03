@@ -1,0 +1,1 @@
+Affect is a psychological term used to more quantitatively express an individual's [[mood]]. It is connected to [[arousal]] and [[valence]] , which make up the two axes that an emotion can be plotted on. This can help us with our [[emotional literacy and granularity]],

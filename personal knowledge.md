@@ -1,0 +1,1 @@
+Personal knowledge is how we understand and perceive the [[phenomenon]] that build up the world around us. It is split into [[declarative knowledge]] and [[nondeclarative knowledge]] This knowledge can come from or be contributed to [[public knowledge and culture]].

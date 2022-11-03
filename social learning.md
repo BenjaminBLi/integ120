@@ -1,0 +1,1 @@
+This is theory that learning can be done purely through observation, withou instruction or physical guidance. An individual can observe punishments and rewards vicariously and learn to perform similar actions or behave similarly simply by observing. Two examples of this kind of learning are [[enskilment]] and [[enculturation]]. 

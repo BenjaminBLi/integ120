@@ -1,0 +1,1 @@
+This is an important process of learning where we taking information and break it down into their "atomic" forms. This is an important process to ensuring our [[declarative memory]] and [[permanent notes]] are clear and correct.

@@ -1,0 +1,1 @@
+This is a phenomenon where an individual relies on society and the public to retain information instead of their own [[personal knowledge]]. This results in a very superficial understanding of topics, and is one of many reasons why [[learning, like all growth, is uncomfortable]].

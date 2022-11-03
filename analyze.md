@@ -1,0 +1,1 @@
+This level of knowledge is achieved when an individual can take existing information, and **analyze** it, allowing the individual to extract new information, and 

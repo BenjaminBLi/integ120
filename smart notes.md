@@ -1,0 +1,1 @@
+this is one of many [[learning strategies]] that we employ. Specifically, we use [[Bullet Journaling]] to take notes effectively. This mainly just describes how to effectively take notes by using [[fleeting notes]] to take down preliminary information, and then move onto [[permanent notes]] afterwards.

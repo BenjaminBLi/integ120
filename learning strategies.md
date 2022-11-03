@@ -1,0 +1,3 @@
+These involve things such as [[Bullet Journaling]], [[the Feynman technique]], [[Bloom's Taxonomy for Learning Outcomes]]. and [[elaboration]]. These strategies are a type of [[metacognition]] that help us learn in a more efficient and effective manner.   
+
+Tangentially, [[journaling]] is another form of learning strategies, as it helps us grow as an individual, thereby enhancing our own learning performances and as an individual too.

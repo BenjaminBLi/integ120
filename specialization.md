@@ -1,0 +1,1 @@
+This is when we [[analyze]] and [[apply]] our own [[personal knowledge]] to a new set of circumstances we have no [[cognitive heuristics]] for.

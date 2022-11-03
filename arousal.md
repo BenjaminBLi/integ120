@@ -1,0 +1,1 @@
+This determines the "energy level" of the current designated affect. That is to say, how intense the emotion is. It's the difference between finding a dime and finding 50 bucks on the ground for example.

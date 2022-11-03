@@ -1,0 +1,3 @@
+Oftentimes an individual's perception (and therefore [[personal knowledge]] is influenced by their own culture. That is to say, the world around them and the context they perceive is influenced by the cultures they're influenced by. For example, much of the western world believes that oral hygiene is important, whereas Japanese view it as less important. 
+
+Similarly, certain actions can seem offensive to an individual if their cultures differ. This is important to make note of since [[enculturation]] is a natural process, and can often lead to [[prediction error]]s.

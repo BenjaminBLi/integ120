@@ -1,0 +1,1 @@
+This type of note is a type of note taking that is... "fleeting". It's used as short-term notetaking that consists of writing down your notes in "temporary storage", using [[Bullet Journaling]] in our case. These notes should then be moved into [[permanent notes]]. 

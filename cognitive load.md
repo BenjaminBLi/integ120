@@ -1,0 +1,1 @@
+This is the amount of [[working memory]] resources used during a task. It is important to know that there are limitations on the [[cognitive load]] that can be burdened on the mind at any given time, That is, the brain can only remember so much during a given time. 

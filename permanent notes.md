@@ -1,0 +1,1 @@
+This is where our "central" knowledgebase should be. All [[fleeting notes]] should be transferred to some form of permanent notes in a clearer, more interconnected set of permanent notes that we can refer to. This process helps with [[elaboration]] and 

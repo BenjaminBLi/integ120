@@ -1,0 +1,1 @@
+This is the process that describes how we use short cuts to arrive at decisions. It is a type of [[metacognition]] where our own brain develops algorithms that help individuals arrive at an answer that is *likely* to be true. It is considered [[Type 1 (fast, automatic) cognition]].

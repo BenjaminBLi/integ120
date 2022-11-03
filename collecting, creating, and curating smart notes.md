@@ -1,0 +1,1 @@
+This is all about collecting thoughts. These notes are meant to be [[fleeting notes]] and should be processed before the end of the day. The three verbs describe the main actions we perform when taking [[fleeting notes]]. They are meant to be short, simple, and not too in depth. 

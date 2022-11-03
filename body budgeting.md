@@ -1,0 +1,3 @@
+Body budgeting is how our brain budgets the energy in our body to keep us alive and well. [[the predictive brain]] tends to try and predict the needs of our body in order to try and satisfy any needs before they arise. This helps keep us in equilibrium and is the state our body tries to be in normally.
+
+When our body budget is wrong and we run out of energy for example, this can greatly affect our [[affect]], maybe by forcing our [[valence]] to be negative, or our [[arousal]] to be low. Keeping track of our own body budgeting through things like [[journaling]] can allow us to use [[metacognition]] to predict our own body budgets in advance, or take advantage of times of high arousal to learn better.

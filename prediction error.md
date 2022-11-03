@@ -1,0 +1,1 @@
+This is what happens when there is a mismatch between what the brain is expecting and what actually happens. When errors occur, the brain then learns. 

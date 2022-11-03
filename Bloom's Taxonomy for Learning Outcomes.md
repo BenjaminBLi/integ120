@@ -1,4 +1,4 @@
-consists of 6 levels of learning, from shallowest to deepest depth
+This consists of 6 levels of learning, from shallowest to deepest depth, and is also known as [[the cognitive domain]]
 - [[remember]]
 - [[understand]]
 - [[apply]]

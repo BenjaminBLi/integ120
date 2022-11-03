@@ -1,0 +1,3 @@
+This is any problem involving more than the simple recall of [[personal knowledge]], whether this be developing a webpage or trying to fix a faucet. Trying to recall all of our knowledge would be too difficult, so we use tricks (either deliberately or unconsciously) like [[cognitive heuristics]], and [[rules]] to remove bad options. This helps reduce [[cognitive load]] and simplify our decision making process.
+
+To solve search problems, we use a a combination of [[forward search]] and [[backward search]] known as **bidirectional search** to devlop [[cognitive heuristics]] to solve the problem. 

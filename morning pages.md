@@ -1,0 +1,1 @@
+Morning pages are typically something closer to a "brain dump". There is no structure to these prompts, and mostly involve letting a stream of consciousness flow in order to empty the mind and  sort out any deeper feelings.

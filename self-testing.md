@@ -1,0 +1,1 @@
+This is when we test concepts we know ourselves using things like flashcards and reviews in order to learn more. It is a type of method to deepend our [[declarative knowledge]].

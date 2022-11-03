@@ -1,1 +1,1 @@
-this is personal knowledge that can be explained with words. Consider something like the formula to calculate the area of a circle.
+this is personal knowledge that can be explained with words. Consider something like the formula to calculate the area of a circle. This kind of knowledge can be converted into [[nondeclarative knowledge]] and knowledge 

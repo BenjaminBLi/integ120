@@ -1,1 +1,1 @@
-This is the collective knowledge of all humans - that is, everything an individual could possibly learn ever.
+This is the collective knowledge of all humans - that is, everything an individual could possibly learn ever. It also involves phenomenon such as [[illusions of knowledge]]. 

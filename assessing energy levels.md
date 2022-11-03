@@ -1,0 +1,1 @@
+This is a [[metacognition]] method used to assess our own energy levels by attempting to plot our affects as we feel them, or in retrospect. Using this method, we can effectively employ [[body budgeting]] by analyzing the affect trends of our body, and determing the overall amount of energy we have to spend in a day.

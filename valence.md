@@ -1,0 +1,1 @@
+This is the type of emotion that's being felt. That is to say, whether it is positive or negative. The severity of the emotion felt is what differentiates the emotions. For example, disgust is far more negative than annoyance.

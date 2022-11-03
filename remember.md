@@ -1,1 +1,1 @@
-This is equivalent to being able to recite things from memory at best. 
+This level of learning is when we can recite definitions and [[recall]] them

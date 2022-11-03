@@ -1,0 +1,1 @@
+This is an "if-then" statement, or an "if/else" block. The actions and processing necessary can be both explicit and implicit, meaning that it can be [[Type 1 (fast, automatic) cognition]] or [[Type 2 (slow, deliberate) cognition]].

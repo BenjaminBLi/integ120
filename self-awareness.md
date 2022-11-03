@@ -1,0 +1,1 @@
+This is the ability to percieve and understand what makes you you. Things like personality, energy levels, limits, beliefs, etc. It is an important form of [[metacognition]] that allows us to grow as individuals as long as we try our best.

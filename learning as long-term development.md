@@ -1,0 +1,1 @@
+Learning as long-term development is a process where we employ [[learning strategies]] in order to be aware of our own self to [[learning literally changes your brain]]. Using the [[Bullet Journaling]] method for note taking and daily use can help an individual manage their life and be better prepared for learning.

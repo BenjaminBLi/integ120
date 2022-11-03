@@ -1,0 +1,1 @@
+A phenomenon is the description of how something is, regardless of our perception. There is usually a gap between our [[personal knowledge]] and the objective truth that [[phenomenon]] try to describe.
