@@ -37,8 +37,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Practicing.md",
-                "mode": "source",
+                "file": "000 Final 120 Assessments.md",
+                "mode": "preview",
+                "backlinks": true,
                 "source": false
               }
             }
@@ -110,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Practicing.md",
+                "file": "000 Final 120 Assessments.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Practicing.md",
+                "file": "000 Final 120 Assessments.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Practicing.md"
+                "file": "000 Final 120 Assessments.md"
               }
             }
           }
@@ -163,15 +164,15 @@
   },
   "active": "c47f7230023ba4b1",
   "lastOpenFiles": [
-    "purposeful practice.md",
-    "deliberate practice.md",
-    "learning as long-term development.md",
-    "Practicing.md",
-    "naive practice.md",
-    "learning, like all growth, is uncomfortable.md",
-    "Learning mindsets.md",
-    "fixed mindsets.md",
-    "growth mindsets.md",
-    "remember.md"
+    "affect.md",
+    "the predictive brain.md",
+    "body budgeting.md",
+    "arousal.md",
+    "public knowledge and culture.md",
+    "personal knowledge.md",
+    "declarative knowledge.md",
+    "nondeclarative knowledge.md",
+    "Untitled.md",
+    "Practicing.md"
   ]
 }
