@@ -33,7 +33,8 @@ The [[120 000#CONNECTED CONCEPTS 3|CONNECTED CONCEPTS 3]] submission is also inc
 > 
 > In your response, be sure to (1) link to other notes in your Obsidian Vault and (2) provide detailed examples to support anything you claim (i.e., "show don't tell").
 
-Your Answer Goes Here... 
+Given that I spent most of my time in classes online, and joined late, I ended up lacking the connections and interaction between classmates that I most likely would've received from in person classes. However, I found a workaround to this interaction by simply conversing with friends outside of Integ120 and was able to use the Feynman technique. However, I've found the most success with the simple smart notes framework. By using this in tandem with spaced repition, I've found myself far more successful with studying and accumulating knowledge in general. This strategy in particular has been of success in tandem with my Psych101 course that I've been taking. 
+
 
 > [!alert] Question 1 Self-Assessment 
 > Below, tell me what grade you believe you deserve for your response to this question. Justify your proposed grade in 3-6 sentences. I will accept honest and reasonable self assessments / grade proposals and reject dubious or unreasonable self assessments / grade proposals. 

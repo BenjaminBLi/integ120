@@ -43,9 +43,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "25ac927273ecb7f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "000 Final 120 Assessments.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -162,8 +174,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c47f7230023ba4b1",
+  "active": "25ac927273ecb7f1",
   "lastOpenFiles": [
+    "Fleeting notes Nov 28.md",
+    "000 Final 120 Assessments.md",
     "affect.md",
     "the predictive brain.md",
     "body budgeting.md",
@@ -171,8 +185,6 @@
     "public knowledge and culture.md",
     "personal knowledge.md",
     "declarative knowledge.md",
-    "nondeclarative knowledge.md",
-    "Untitled.md",
-    "Practicing.md"
+    "nondeclarative knowledge.md"
   ]
 }
